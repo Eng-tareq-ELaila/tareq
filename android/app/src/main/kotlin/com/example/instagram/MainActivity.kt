@@ -1,4 +1,4 @@
-package com.example.instagram
+package dev.tareq.instagram
 
 import io.flutter.embedding.android.FlutterActivity
 
